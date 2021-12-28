@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vicnz
-- 👀 I’m interested in **coding**
-- 🌱 I’m currently learning **webdev technologies**
-- 💞️ I’m looking to collaborate on **simple projects**
+- 👀 I’m interested in **coding** / **design**
+- 🌱 I’m currently learning **webdev technologies** / **modile dev**
+- 💞️ I’m looking to collaborate on **Something**
 - 📫 How to reach me 
 
 <!---
