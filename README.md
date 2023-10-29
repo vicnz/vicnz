@@ -1,6 +1,8 @@
 <div style="display: flex;align-items: center; justify-content: center">
     <img alt="vicnz-banner" src="https://raw.githubusercontent.com/vicnz/vicnz/main/images/banner.png">
 </div>
+
+
 # Hello! 🙋 I'm VICNZ
 
 ## About Me
@@ -71,7 +73,7 @@
 
 
 ### 🤝 Connect With Me
-<div style="display: flex; gap: 15px;align-items: center; justify-content: center">
+<div style="display: flex; gap: 15px; align-items: center; justify-content: center">
 <a href="https://www.facebook.com/N30NZ0N3"><img align="left" src="https://raw.githubusercontent.com/vicnz/vicnz/main/images/facebook.svg" alt="icon | Facebook" width="48px" height="48px"/></a>
 <a href="https://m.me/N30NZ0N3"><img align="left" src="https://raw.githubusercontent.com/vicnz/vicnz/main/images/messenger.svg" alt="icon | Messenger" width="48px" height="48px"/></a>
 <a href="https://instagram.com/n30nz0n3"><img align="left" src="https://raw.githubusercontent.com/vicnz/vicnz/main/images/instagram.svg" alt="icon | Instagram" width="48px" height="48px"/></a>
@@ -79,7 +81,8 @@
 <a href="mailto:adam.v.gonzales@outlook.com"><img align="left" src="https://raw.githubusercontent.com/vicnz/vicnz/main/images/outlook.svg" alt="icon | Outlook" width="48px" height="48px"/></a>
 <a href="mailto:v.adam.gonzales@gmail.com"><img align="left" src="https://raw.githubusercontent.com/vicnz/vicnz/main/images/gmail.svg" alt="icon | Gmail" width="48px" height="48px"/></a>
 </div>
-
+<br/>
+<br/>
 
 
 ---
