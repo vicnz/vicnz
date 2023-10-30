@@ -70,7 +70,7 @@
 </div>
 
 
-### 🤝 Connect With Me
+### 🤝 Connect With Me 😄
 <div style="display: flex; gap: 15px; align-items: center; justify-content: center">
 <a href="https://www.facebook.com/N30NZ0N3"><img align="left" src="https://raw.githubusercontent.com/vicnz/vicnz/main/images/facebook.svg" alt="icon | Facebook" width="48px" height="48px"/></a>
 <a href="https://m.me/N30NZ0N3"><img align="left" src="https://raw.githubusercontent.com/vicnz/vicnz/main/images/messenger.svg" alt="icon | Messenger" width="48px" height="48px"/></a>
