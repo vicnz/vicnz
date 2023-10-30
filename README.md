@@ -55,8 +55,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
-![sdsd](https://flat.badgen.net/static/stars/github/?icon=github)
-
 ## Gihub Status
 <div style="display: flex;justify-content: center; align-items: center">
 
