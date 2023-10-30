@@ -60,6 +60,8 @@
 ## Gihub Status
 <div style="display: flex;justify-content: center; align-items: center">
 
+[![VINZ's github stats](https://github-readme-stats.vercel.app/api?username=vicnz)](https://github.com/vicnz)
+
 </div>
 
 ## Top Language *\*Based on github review\**
