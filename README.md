@@ -60,8 +60,6 @@
 ## Gihub Status
 <div style="display: flex;justify-content: center; align-items: center">
 
-[![VINZ's github stats](https://github-readme-stats.vercel.app/api?username=vicnz)](https://github.com/vicnz)
-
 </div>
 
 ## Top Language *\*Based on github review\**
@@ -81,6 +79,8 @@
 <a href="mailto:adam.v.gonzales@outlook.com"><img align="left" src="https://raw.githubusercontent.com/vicnz/vicnz/main/images/outlook.svg" alt="icon | Outlook" width="48px" height="48px"/></a>
 <a href="mailto:v.adam.gonzales@gmail.com"><img align="left" src="https://raw.githubusercontent.com/vicnz/vicnz/main/images/gmail.svg" alt="icon | Gmail" width="48px" height="48px"/></a>
 </div>
+
+
 <br/>
 <br/>
 
